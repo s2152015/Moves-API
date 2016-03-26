@@ -1,28 +1,18 @@
-CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC. Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+Database
+1-database name doctor_mobile.sql
+2-moves_activities table for activites
+3-moves_users table for move users
 
-The Cake Software Foundation - promoting development related to CakePHP
-http://cakefoundation.org/
+Backend  http://localhost/workspace/doctorsmobile/admin
 
-CakePHP - the rapid development PHP framework
-http://www.cakephp.org
+1- username sara
+2- password 123456
 
-Cookbook - user documentation for learning about CakePHP
-http://book.cakephp.org
+Frontend http://localhost/workspace/doctorsmobile
 
-API - quick reference to CakePHP
-http://api.cakephp.org
+1-controller for activites '/doctorsmobile/app/controllers/moves_activities_controller.php'
+2-controller for moves users '/doctorsmobile/app/controllers/moves_users_controller.php'
+3-views for activites '/doctorsmobile/app/views/moves_activities'
+4-views for move users '/doctorsmobile/app/views/moves_users'
+5-homepage  path '/doctorsmobile/app/views/themed/autoform/layouts/default.ctp'
 
-The Bakery - everything CakePHP
-http://bakery.cakephp.org
-
-The Show - live and archived podcasts about CakePHP and more
-http://live.cakephp.org
-
-CakePHP TV - screen casts from events and video tutorials
-http://tv.cakephp.org
-
-CakePHP Google Group - community mailing list and forum
-http://groups.google.com/group/cake-php
-
-#cakephp on irc.freenode.net - chat with CakePHP developers
-irc://irc.freenode.net/cakephp
