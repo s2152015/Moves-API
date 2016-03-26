@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/alsalama/!svn/ver/13/app/plugins/gallery
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/README.txt
+END
+gallery_app_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/gallery_app_controller.php
+END
+gallery_app_model.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/gallery_app_model.php
+END

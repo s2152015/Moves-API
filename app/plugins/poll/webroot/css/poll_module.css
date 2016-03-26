@@ -1,0 +1,40 @@
+﻿.poll-structure{
+    clear: right;
+
+}
+
+.poll-options{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.poll-answers{
+    clear: both;
+}
+.answer-element{
+    list-style-type: decimal;
+}
+
+.poll-question{
+padding-top: 10px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    /*float: left;*/
+}
+
+.result-answer-module{
+    margin-top: 10px;
+}
+
+.result-answer{
+    clear: left;
+}
+
+.result-answer-percentage{
+    font-style: italic;
+    font-size: smaller;
+color:#169fe6;
+
+
+    /*float: right;*/
+}

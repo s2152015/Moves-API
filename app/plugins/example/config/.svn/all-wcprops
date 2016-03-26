@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alsalama/!svn/ver/11/app/plugins/example/config
+END
+example_bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alsalama/!svn/ver/11/app/plugins/example/config/example_bootstrap.php
+END
+example_activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/11/app/plugins/example/config/example_activation.php
+END
+example_routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alsalama/!svn/ver/11/app/plugins/example/config/example_routes.php
+END
+plugin.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/11/app/plugins/example/config/plugin.yml
+END

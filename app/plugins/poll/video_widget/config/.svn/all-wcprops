@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/127/app/plugins/poll/video_widget/config
+END
+video_widget_bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/alsalama/!svn/ver/127/app/plugins/poll/video_widget/config/video_widget_bootstrap.php
+END
+video_widget_activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/alsalama/!svn/ver/127/app/plugins/poll/video_widget/config/video_widget_activation.php
+END
+video_widget_routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/alsalama/!svn/ver/127/app/plugins/poll/video_widget/config/video_widget_routes.php
+END
+plugin.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alsalama/!svn/ver/127/app/plugins/poll/video_widget/config/plugin.yml
+END

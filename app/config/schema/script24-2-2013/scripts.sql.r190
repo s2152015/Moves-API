@@ -1,0 +1,52 @@
+CREATE TABLE IF NOT EXISTS `polls` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `question` varchar(255) COLLATE utf8_unicode_ci NOT NULL DEFAULT '',
+  `expiration` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `active` int(1) NOT NULL DEFAULT '0',
+  `created` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+  `updated` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=17 ;
+
+
+CREATE TABLE IF NOT EXISTS `poll_answers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `poll_id` int(11) NOT NULL DEFAULT '0',
+  `answer` varchar(255) COLLATE utf8_unicode_ci NOT NULL DEFAULT '',
+  `displayed` int(1) NOT NULL DEFAULT '1',
+  `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `updated` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=41 ;
+
+CREATE TABLE IF NOT EXISTS `poll_votes` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `poll_answer_id` int(11) NOT NULL DEFAULT '0',
+  `voter_ip` varchar(255) COLLATE utf8_unicode_ci NOT NULL DEFAULT '',
+  `created` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  `updated` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00',
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci AUTO_INCREMENT=36873 ;
+
+
+
+CREATE TABLE `alsalama`.`medicalprograms` ( 
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`name` VARCHAR( 255 ) NULL ,
+`desc` TEXT NULL
+) ENGINE = INNODB; 
+CREATE TABLE `alsalama`.`medicalinformations` ( 
+`id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY ,
+`name` VARCHAR( 255 ) NULL ,
+`desc` TEXT NULL
+) ENGINE = INNODB;
+
+
+
+CREATE TABLE IF NOT EXISTS `newsletters` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) DEFAULT NULL,
+  `job` varchar(255) DEFAULT NULL,
+  `email` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;

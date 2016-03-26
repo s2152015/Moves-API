@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/12/app/plugins/extensions/controllers
+END
+extensions_plugins_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alsalama/!svn/ver/12/app/plugins/extensions/controllers/extensions_plugins_controller.php
+END
+extensions_themes_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/alsalama/!svn/ver/12/app/plugins/extensions/controllers/extensions_themes_controller.php
+END
+extensions_locales_controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/alsalama/!svn/ver/12/app/plugins/extensions/controllers/extensions_locales_controller.php
+END

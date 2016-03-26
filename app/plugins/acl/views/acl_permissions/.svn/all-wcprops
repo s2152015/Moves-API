@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/10/app/plugins/acl/views/acl_permissions
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/alsalama/!svn/ver/10/app/plugins/acl/views/acl_permissions/admin_index.ctp
+END
+admin_toggle.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/alsalama/!svn/ver/10/app/plugins/acl/views/acl_permissions/admin_toggle.ctp
+END

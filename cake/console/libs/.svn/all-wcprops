@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/alsalama/!svn/ver/1/cake/console/libs
+END
+testsuite.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alsalama/!svn/ver/1/cake/console/libs/testsuite.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alsalama/!svn/ver/1/cake/console/libs/console.php
+END
+bake.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alsalama/!svn/ver/1/cake/console/libs/bake.php
+END
+api.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alsalama/!svn/ver/1/cake/console/libs/api.php
+END
+acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alsalama/!svn/ver/1/cake/console/libs/acl.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alsalama/!svn/ver/1/cake/console/libs/i18n.php
+END
+shell.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alsalama/!svn/ver/1/cake/console/libs/shell.php
+END
+schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alsalama/!svn/ver/1/cake/console/libs/schema.php
+END

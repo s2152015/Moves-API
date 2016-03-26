@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config
+END
+poll_activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/poll_activation.php
+END
+poll_routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/poll_routes.php
+END
+poll_bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/poll_bootstrap.php
+END
+plugin.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/plugin.yml
+END

@@ -1,0 +1,49 @@
+<?php
+echo $this->Html->css(array('dashboard'));
+?>
+<div class="dashboard index">
+    <h2 style="color: #2373AA"><?php echo $title_for_layout; ?></h2>
+
+    <div class="section">
+        <div class="section_content">
+            <!--[if !IE]>start section content top<![endif]-->
+            <div class="sct">
+                <div class="sct_left">
+                    <div class="sct_right">
+                        <div class="sct_left">
+                            <div class="sct_right">
+                                <!--[if !IE]>start dashboard menu<![endif]-->
+                                <div class="dashboard_menu_wrapper">
+                                    <ul class="dashboard_menu">
+
+                                        <li><?php echo $this->Html->link('<span>' . __('WebSite Homepage', true) . '</span>', array('plugin' => null, 'admin' => false, 'controller' => 'nodes', 'action' => 'promoted'), array('class' => 'd7', 'escape' => false)); ?></li>
+                                        <li><?php echo $html->link('<span>' . __('Content Management', true) . '</span>', array('plugin' => null, 'controller' => 'nodes', 'action' => 'index'), array('class' => 'd14', 'escape' => false)); ?></li>
+                                        <li><?php echo $html->link('<span>' . __('Menus', true) . '</span>', array('plugin' => null, 'controller' => 'menus', 'action' => 'index'), array('class' => 'd13', 'escape' => false)); ?></li>
+                                        <li><?php echo $html->link('<span>' . __('Plugins', true) . '</span>', array('plugin' => 'extensions', 'controller' => 'extensions_plugins', 'action' => 'index'), array('escape' => false, 'class' => 'd2')); ?></li>
+                                        <li><?php echo $html->link('<span>' . __('Users', true) . '</span>', array('plugin' => null, 'controller' => 'users', 'action' => 'index'), array('escape' => false, 'class' => 'd1')); ?></li>      
+                                        <li><?php echo $html->link('<span>' . __('Locales', true) . '</span>', array('plugin' => 'extensions', 'controller' => 'extensions_locales', 'action' => 'index'), array('escape' => false, 'class' => 'd16')); ?></li>                                                                             
+
+                                        <li><?php echo $html->link('<span>' . __('Change site templates', true) . '</span>', array('plugin' => 'extensions', 'controller' => 'extensions_themes', 'action' => 'index'), array('escape' => false, 'class' => 'd4')); ?></li>
+
+
+                                        <li><?php echo $html->link('<span>' . __('Polls', true) . '</span>', array('plugin' => 'poll', 'controller' => 'polls', 'action' => 'index'), array('escape' => false, 'class' => 'd15')); ?></li>
+
+
+                                        <li><?php echo $this->Html->link('<span>' . __('Find your Doctor System', true) . '</span>', array('plugin' => null, 'controller' => 'doctors', 'action' => 'dashboard'), array('class' => 'd17', 'escape' => false)); ?></li>
+                                    <li><?php echo $html->link('<span>' . __('Advs Management', true) . '</span>', array('plugin' => null, 'controller' => 'advs', 'action' => 'index'), array('class' => 'd14', 'escape' => false)); ?></li>
+                                    <li><?php echo $html->link('<span>' . __('News Letters Management', true) . '</span>', array('plugin' => null, 'controller' => 'newsletters', 'action' => 'index'), array('class' => 'd14', 'escape' => false)); ?></li>
+                                    
+                                    
+                                     <li><?php echo $html->link('<span>' . __('Send NewsLetters', true) . '</span>', array('plugin' => null, 'controller' => 'newsletters', 'action' => 'send_newsletters'), array('class' => 'd14', 'escape' => false)); ?></li>
+                                    
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="scb"><span class="scb_left"></span><span class="scb_right"></span></span>
+        </div>
+    </div>
+</div>

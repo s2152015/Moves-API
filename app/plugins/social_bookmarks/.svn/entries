@@ -1,0 +1,71 @@
+10
+
+dir
+147
+https://hmis01v1-abs.andalusia.loc/svn/alsalama/app/plugins/social_bookmarks
+https://hmis01v1-abs.andalusia.loc/svn/alsalama
+
+
+
+2013-02-12T10:55:31.487438Z
+16
+tamer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+99d0492d-f99a-c549-a39d-d051506b42c0
+
+README.mdown
+file
+
+
+
+
+2013-02-19T14:59:21.884000Z
+e3e803c8c5172a8f1c4670bb093f925e
+2013-02-12T10:55:31.487438Z
+16
+tamer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+426
+
+config
+dir
+
+views
+dir
+
+webroot
+dir
+

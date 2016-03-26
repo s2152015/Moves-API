@@ -1,0 +1,18 @@
+name: YallSeha
+description: YallSeha theme for YallSeha
+screenshot: screenshot.jpg
+
+author: Andalusia
+authorEmail: Andalusia.com
+authorUrl: http://Andalusia.com
+
+menus:
+  - main
+
+regions:
+  - header
+  - header-lang
+  - header-right
+  - right
+  - center
+  - footer

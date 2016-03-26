@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/alsalama/!svn/ver/48/app/views/nodes/rss
+END
+index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alsalama/!svn/ver/48/app/views/nodes/rss/index.ctp
+END
+promoted.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alsalama/!svn/ver/48/app/views/nodes/rss/promoted.ctp
+END
+term.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alsalama/!svn/ver/48/app/views/nodes/rss/term.ctp
+END

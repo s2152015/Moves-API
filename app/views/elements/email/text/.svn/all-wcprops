@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alsalama/!svn/ver/207/app/views/elements/email/text
+END
+comment.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/28/app/views/elements/email/text/comment.ctp
+END
+contact.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/28/app/views/elements/email/text/contact.ctp
+END
+register.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alsalama/!svn/ver/28/app/views/elements/email/text/register.ctp
+END
+register_1.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alsalama/!svn/ver/207/app/views/elements/email/text/register_1.ctp
+END
+forgot_password.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/28/app/views/elements/email/text/forgot_password.ctp
+END

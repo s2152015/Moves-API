@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alsalama/!svn/ver/14/app/plugins/langbar/config
+END
+langbar_activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/14/app/plugins/langbar/config/langbar_activation.php
+END
+plugin.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/14/app/plugins/langbar/config/plugin.yml
+END
+langbar_bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alsalama/!svn/ver/14/app/plugins/langbar/config/langbar_bootstrap.php
+END

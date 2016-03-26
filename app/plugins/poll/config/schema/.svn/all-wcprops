@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/schema
+END
+poll_votes.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/schema/poll_votes.php
+END
+polls.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/schema/polls.php
+END
+poll_answers.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alsalama/!svn/ver/127/app/plugins/poll/config/schema/poll_answers.php
+END

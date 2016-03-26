@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors
+END
+params.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors/params.test.php
+END
+croogo_translate.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors/croogo_translate.test.php
+END
+meta.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors/meta.test.php
+END
+url.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors/url.test.php
+END
+encoder.test.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/alsalama/!svn/ver/22/app/tests/cases/behaviors/encoder.test.php
+END

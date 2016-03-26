@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config
+END
+gallery_deactivate.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/gallery_deactivate.sql
+END
+gallery_routes.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/gallery_routes.php
+END
+gallery.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/gallery.sql
+END
+gallery_bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/gallery_bootstrap.php
+END
+gallery_activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/gallery_activation.php
+END
+plugin.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/config/plugin.yml
+END

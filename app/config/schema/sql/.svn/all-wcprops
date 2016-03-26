@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/alsalama/!svn/ver/112/app/config/schema/sql
+END
+croogo_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alsalama/!svn/ver/7/app/config/schema/sql/croogo_data.sql
+END
+croogo.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alsalama/!svn/ver/112/app/config/schema/sql/croogo.sql
+END
+db_acl.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alsalama/!svn/ver/7/app/config/schema/sql/db_acl.sql
+END
+sessions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alsalama/!svn/ver/7/app/config/schema/sql/sessions.sql
+END
+i18n.sql
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alsalama/!svn/ver/7/app/config/schema/sql/i18n.sql
+END

@@ -1,0 +1,53 @@
+---
+Comment.date_time_format: M d, Y
+Comment.feed_limit: 10
+Comment.level: 1
+Hook.bootstraps: tinymce
+Meta.description: Translation and Localization Services in Cairo and Dubai
+Meta.generator: 'Croogo - Content Management System'
+Meta.keywords: >
+    Translation, Interpretation, Translation services,
+    Translation in Dubai, Translation in Cairo, Legal
+    translation, certified translation, Financial translation,
+    Localization, Translator, Interpreter, desktop publishing,
+    internationalization, copywriting, transcription. 
+Meta.robots: >
+    Translation, Interpretation, Translation services,
+    Translation in Dubai, Translation in Cairo, Legal
+    translation, certified translation, Financial translation,
+    Localization, Translator, Interpreter 
+Reading.date_time_format: D, M d Y H:i:s
+Reading.nodes_per_page: 5
+Service.akismet_key: your-key
+Service.akismet_url: http://your-blog.com
+Service.recaptcha_private_key: your-private-key
+Service.recaptcha_public_key: your-public-key
+Site.email: info@thetranshome.com
+Site.feed_url: 
+Site.locale: eng
+Site.status: 1
+Site.tagline: |
+    Translation
+    Media: the world has become a small village due to the great advancements in the telecommunication field. That is why we always endeavor to excel in conveying the media messages in different languages to information seekers. We have distinguished expertise in copyrighting and translating material for diverse audio-visual media channels including but not limited to magazines, newspapers, advertisements, newsletters, press reports and releases, periodicals, billboards in addition to radio commercials, programs, scripts and announcements.
+    Field Oriented Translation: we have a profound experience in translating diverse documents that are generated through different fields of practice such as law, trade, accounting (chartered and non-chartered), banking, auditing and medicine including but not limited to contracts, agreements, memos, laws, judgments, briefings, power of attorneys, balance sheets, financial statements, profit and loss documents, fund prospectus, accounting articles, ledgers, tender specifications, shipping and freight documents, financial reports, economic reviews, technical writing, medical reports and research…etc.
+    Intellectual Property: We support the field of empirical research and scientific advancements by facilitating and translating patents, trademarks, research papers, specialized journals, academic publications and references.
+    Literature: We believe in the significance of art and its impact on the different cultures regardless of the geographical boundaries that separate them. Our expertise include sharing the pieces of art among the different nations through the translation of literary books, novels, poetry, prose, short stories…etc.
+    Information Technology & Internet: We always seek to keep up with the latest trends in the field of technological advancements, and we are always keen on sharing them with our clients. We provide translation of technical policies and manuals including, but not limited to, IT infrastructure, IT security, networks, automated enterprise architecture structures, tailored systems arabization, website localization, service level agreements, wireframes, detailed functional specifications, IT non-disclosure agreements…etc.
+    
+    
+    INTERPRETATION
+    Event Management: provide interpretation services in conferences, seminars, forums, training courses, round tables, one-on-one meetings...etc
+    Distance Interpretation: Third party conversations and teleconferencing interpretation services are provided in a professional manner and according to an accurately planned agenda.
+    Equipment Lease: we provide interpretation equipment for events on competitive prices.
+    
+    Systems and Training
+    Training: We provide tailored training programs in specialized English in accordance with the requirements of the client
+    Systems: We provide the required knowledge regarding the implementation and usage of translation technologies in different fields and practices
+    
+    
+    
+    
+Site.theme: autoform
+Site.timezone: 0
+Site.title: autoform
+Writing.wysiwyg: 1

@@ -1,0 +1,18 @@
+name: Auto Form
+description: Auto Form theme for transhome
+screenshot: screenshot.jpg
+
+author: Auto Form
+authorEmail: AutoForm.com
+authorUrl: http://AutoForm.com
+
+menus:
+  - main
+
+regions:
+  - header
+  - header-lang
+  - header-right
+  - right
+  - center
+  - footer

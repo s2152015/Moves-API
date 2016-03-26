@@ -1,0 +1,71 @@
+10
+
+dir
+147
+https://hmis01v1-abs.andalusia.loc/svn/alsalama/app/plugins/langbar
+https://hmis01v1-abs.andalusia.loc/svn/alsalama
+
+
+
+2013-02-12T10:54:54.971346Z
+14
+tamer
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+99d0492d-f99a-c549-a39d-d051506b42c0
+
+README
+file
+
+
+
+
+2013-02-19T14:59:35.525000Z
+abdda4f46dd681eb46e0217b22e1654a
+2013-02-12T10:54:54.971346Z
+14
+tamer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1287
+
+config
+dir
+
+views
+dir
+
+webroot
+dir
+

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/model.php
+END
+bake.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/bake.php
+END
+fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/fixture.php
+END
+project.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/project.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/template.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/controller.php
+END
+extract.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/extract.php
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/test.php
+END
+db_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/db_config.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/plugin.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/alsalama/!svn/ver/1/cake/console/libs/tasks/view.php
+END

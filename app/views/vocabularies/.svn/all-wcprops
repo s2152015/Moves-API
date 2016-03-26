@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/alsalama/!svn/ver/59/app/views/vocabularies
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alsalama/!svn/ver/59/app/views/vocabularies/admin_add.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/59/app/views/vocabularies/admin_index.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/59/app/views/vocabularies/admin_edit.ctp
+END

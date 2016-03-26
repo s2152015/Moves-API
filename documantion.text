@@ -1,0 +1,17 @@
+Database
+1-database name doctor_mobile.sql
+2-moves_activities table for activites
+3-moves_users table for move users
+
+Backend  http://localhost/workspace/doctorsmobile/admin
+
+1- username sara
+2- password 123456
+
+Frontend http://localhost/workspace/doctorsmobile
+
+1-controller for activites '/doctorsmobile/app/controllers/moves_activities_controller.php'
+2-controller for moves users '/doctorsmobile/app/controllers/moves_users_controller.php'
+3-views for activites '/doctorsmobile/app/views/moves_activities'
+4-views for move users '/doctorsmobile/app/views/moves_users'
+5-homepage  path '/doctorsmobile/app/views/themed/autoform/layouts/default.ctp'

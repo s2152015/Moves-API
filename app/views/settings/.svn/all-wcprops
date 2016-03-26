@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/alsalama/!svn/ver/229/app/views/settings
+END
+admin_add.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alsalama/!svn/ver/52/app/views/settings/admin_add.ctp
+END
+admin_index.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/52/app/views/settings/admin_index.ctp
+END
+admin_prefix.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/52/app/views/settings/admin_prefix.ctp
+END
+admin_dashboard.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alsalama/!svn/ver/229/app/views/settings/admin_dashboard.ctp
+END
+admin_dashboard__.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/107/app/views/settings/admin_dashboard__.ctp
+END
+admin_view.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alsalama/!svn/ver/52/app/views/settings/admin_view.ctp
+END
+admin_edit.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/alsalama/!svn/ver/52/app/views/settings/admin_edit.ctp
+END

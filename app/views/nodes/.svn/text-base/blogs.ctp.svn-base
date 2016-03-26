@@ -1,0 +1,63 @@
+  <?php $lang= Configure::read('Config.language');   if ($lang=="eng") $lang="/eng/"; else $lang= "";?>
+
+<div id="content">
+                  <div class="category" style="margin-top: 0px;">
+  <div class="category-top">
+    <div class="category-title color1">صحتك بالدنيا</div>
+  </div>
+  <div class="category-body">
+      <?php $i=0; ?>
+      <?php foreach ($nodes as $result) {
+          
+          if($i%2==0)  $class_m="";  else $class_m="clear-margin";
+          
+            if(isset ( $result['CustomFields']['thumb'])) $thumbpath="/img/nodethumb/homepage_".$result['CustomFields']['thumb']; else $thumbpath="/img/no-photo.gif"; 
+    
+          ?>
+      
+              <div class="article-block <?php echo $class_m; ?>"> 
+          <a href="<?php echo $lang.$this->Html->url($result['Node']['path'], true) ; ?>">
+           
+                         <?php echo $this->Html->image($thumbpath,array('width'=>'80','height'=>'80')); ?>
+
+          </a>
+          <div class="art-content">
+            <a href="<?php echo $lang.$this->Html->url($result['Node']['path'], true) ; ?>" class="txt-title"><?php echo $result['Node']['title'] ; ?> </a>
+            <div><span class="txt-date"><?php echo $time->format(Configure::read('Reading.date_time_format'), $result['Node']['created'], null, Configure::read('Site.timezone')) ;?></span>  <span class="txt-author"></span></div>
+            <div class="art-desc"><?php echo $result['Node']['title'] ; ?> ... </div>
+            <a href="<?php echo $lang.$this->Html->url($result['Node']['path'], true) ; ?>" class="cat-readmore"><?php echo __("More",true); ?>  </a> </div>
+          <div class="clear"></div>
+        </div>
+      
+      <?php $i++;} ?>
+      
+      
+  
+
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+                  <div class="pagination ">
+                      
+<div class="paging"><?php echo $paginator->numbers(); ?></div>
+<div class="counter"><?php 
+//echo $paginator->counter(array('format' => __('Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%', true))); 
+echo $paginator->counter(array('format' => __('', true))); 
+
+?></div>
+
+        
+      </div>
+        
+    <div class="clear"></div>
+  </div>
+  <div class="category-bottom"></div>
+</div>                </div>

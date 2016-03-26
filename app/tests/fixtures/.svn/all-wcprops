@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/alsalama/!svn/ver/22/app/tests/fixtures
+END
+types_vocabulary_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/types_vocabulary_fixture.php
+END
+term_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/term_fixture.php
+END
+block_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/block_fixture.php
+END
+aco_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/aco_fixture.php
+END
+setting_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/setting_fixture.php
+END
+taxonomy_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/taxonomy_fixture.php
+END
+region_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/region_fixture.php
+END
+role_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/role_fixture.php
+END
+language_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/language_fixture.php
+END
+link_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/link_fixture.php
+END
+type_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/type_fixture.php
+END
+i18n_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/i18n_fixture.php
+END
+aro_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/aro_fixture.php
+END
+comment_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/comment_fixture.php
+END
+menu_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/menu_fixture.php
+END
+nodes_taxonomy_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/nodes_taxonomy_fixture.php
+END
+contact_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/contact_fixture.php
+END
+node_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/node_fixture.php
+END
+aros_aco_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/aros_aco_fixture.php
+END
+meta_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/meta_fixture.php
+END
+vocabulary_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/vocabulary_fixture.php
+END
+message_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/message_fixture.php
+END
+user_fixture.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/alsalama/!svn/ver/22/app/tests/fixtures/user_fixture.php
+END

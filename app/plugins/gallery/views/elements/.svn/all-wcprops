@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/views/elements
+END
+admin_menu.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/views/elements/admin_menu.ctp
+END
+gallery_album.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/views/elements/gallery_album.ctp
+END
+gallery_include_js.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/views/elements/gallery_include_js.ctp
+END
+more_albums.ctp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/alsalama/!svn/ver/13/app/plugins/gallery/views/elements/more_albums.ctp
+END
